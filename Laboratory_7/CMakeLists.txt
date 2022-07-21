@@ -1,4 +1,4 @@
-project( LABORATORIO_07 )
+project( Tutorial_01_glfw )
 
 message( "Configuring main application - ${PROJECT_NAME} : " )
 
